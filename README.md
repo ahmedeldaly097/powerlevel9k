@@ -62,6 +62,7 @@ are interested.
 
 ### Prompt Customization
 
+
 Be sure to check out the wiki page on the additional prompt customization
 options, including color and icon settings: [Stylizing Your Prompt](https://github.com/bhilburn/powerlevel9k/wiki/Stylizing-Your-Prompt)
 
